@@ -2,7 +2,6 @@
 # Find Largest Element in an Array
 
 This project finds the largest element in a given array. It is implemented in both **Python** and **Java**.
-
 # How It Works
 
 - The program takes an array of numbers.
