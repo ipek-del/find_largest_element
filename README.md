@@ -1,4 +1,4 @@
-# find_largest_element
+
 # Find Largest Element in an Array
 
 This project finds the largest element in a given array. It is implemented in both **Python** and **Java**.
